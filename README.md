@@ -1,4 +1,4 @@
-TweetEasy
-=========
+Social Toolkit
+==============
 
-Twitter wrapper in C# for .NET 4 and above.
+Toolkit to aid with Twitter and Facebook integration.
